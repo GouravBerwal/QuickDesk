@@ -47,7 +47,7 @@ You can add your own screenshots here
 
 Clone the repository:
 
-git clone https://github.com/yourusername/quickdesk.git
+git clone https://github.com/GouravBerwal/QuickDesk.git
 cd quickdesk
 
 Open any .html file in your browser:
